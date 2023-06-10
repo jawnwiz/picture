@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T11:02:46.249Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="37DOPLgtE6bwSiwVolnC" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T00:28:52.104Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="9KKnkLOjQsdhbyLKusDz" version="20.4.0" type="github">
   <diagram id="ZDVxguQ0t6YCOGnZj4uX" name="Page-1">
     <mxGraphModel dx="815" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-5ypvLp7fpLytLkgI5Ef-8" value="Overlap（韦恩图）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="280" width="120" height="30" as="geometry" />
+          <mxGeometry x="200" y="290" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-5ypvLp7fpLytLkgI5Ef-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-5ypvLp7fpLytLkgI5Ef-10" target="-5ypvLp7fpLytLkgI5Ef-14">
           <mxGeometry relative="1" as="geometry">
@@ -51,7 +51,7 @@
             <mxPoint x="262.5" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5ypvLp7fpLytLkgI5Ef-10" value="差异分析 （logFC≥1.5）：&lt;br&gt;123蛋白，其中 5655个蛋白上调，3645个蛋白下调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-5ypvLp7fpLytLkgI5Ef-10" value="差异分析 （logFC≥1.5）：&lt;br&gt;其中 5655个蛋白上调，3645个蛋白下调&lt;br&gt;铁死亡相关 4 个蛋白，" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="350" width="155" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-5ypvLp7fpLytLkgI5Ef-14" value="火山图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -95,8 +95,8 @@
             <mxPoint x="660" y="410" as="targetPoint" />
             <Array as="points">
               <mxPoint x="610" y="360" />
-              <mxPoint x="610" y="410" />
-              <mxPoint x="660" y="410" />
+              <mxPoint x="610" y="400" />
+              <mxPoint x="660" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -108,8 +108,8 @@
             <mxPoint x="660" y="410" as="targetPoint" />
             <Array as="points">
               <mxPoint x="610" y="440" />
-              <mxPoint x="610" y="410" />
-              <mxPoint x="660" y="410" />
+              <mxPoint x="610" y="400" />
+              <mxPoint x="660" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -138,8 +138,16 @@
         <mxCell id="-5ypvLp7fpLytLkgI5Ef-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-5ypvLp7fpLytLkgI5Ef-33" target="-5ypvLp7fpLytLkgI5Ef-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-5ypvLp7fpLytLkgI5Ef-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-5ypvLp7fpLytLkgI5Ef-33" target="-5ypvLp7fpLytLkgI5Ef-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="400" />
+              <mxPoint x="610" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-5ypvLp7fpLytLkgI5Ef-33" value="目标蛋白:" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="390" width="90" height="40" as="geometry" />
+          <mxGeometry x="660" y="380" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-5ypvLp7fpLytLkgI5Ef-45" value="数据库、文献查询蛋白功能、 亚细胞定位、文献研究情况" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="330" width="110" height="40" as="geometry" />
