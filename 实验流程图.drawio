@@ -1,9 +1,229 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="F5ouORoxrRzBRyUPlKuT">
-    <mxGraphModel>
+    <mxGraphModel dx="1096" dy="1670" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="O1s_TTARKZEu_721vIBI-74" value="" style="group;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="829" y="677" width="1591" height="775" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-8" value="生物信息学分析" style="strokeWidth=2;verticalAlign=top;container=0;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-74">
+          <mxGeometry width="1445" height="769" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-9" value="差异基因表达分析" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-74">
+          <mxGeometry x="573.7913332211897" y="138.2185947159919" width="211.08539167254762" height="99.48837209302327" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-10" value="GO富集分析" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-74">
+          <mxGeometry x="28.637096746214183" y="320.21597220656804" width="163.92801693719125" height="99.48837209302327" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-11" value="KEGG通路富集分析" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-74">
+          <mxGeometry x="268.3479181369089" y="322.41602067183464" width="218.94495412844037" height="99.48837209302327" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-12" value="Reactome通路富集分析" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-74">
+          <mxGeometry x="543.4326040931546" y="322.41602067183464" width="254.8743824982357" height="99.48837209302327" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-13" value="GSEA分析" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-74">
+          <mxGeometry x="854.4467184191956" y="322.41602067183464" width="144.84050811573744" height="99.48837209302327" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-14" value="趋势分析" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-74">
+          <mxGeometry x="1054.304163726182" y="322.41602067183464" width="139.22653493295692" height="99.48837209302327" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-15" value="蛋白互作分析" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-74">
+          <mxGeometry x="1249.6704304869445" y="322.41602067183464" width="175.1559633027523" height="99.48837209302327" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-16" value="mRNA-miRNA关联分析" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-74">
+          <mxGeometry x="207.3917518229323" y="601.2643794956184" width="245.8920254057869" height="99.48837209302327" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-17" value="mRNA-lncRNA关联分析" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-74">
+          <mxGeometry x="561.9383844337704" y="601.2643794956184" width="249.26040931545515" height="99.48837209302327" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-18" value="ceRNA 分析" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-74">
+          <mxGeometry x="973.1914219494793" y="601.2686273627025" width="159.43683839096676" height="99.48837209302327" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="O1s_TTARKZEu_721vIBI-74" source="O1s_TTARKZEu_721vIBI-9" target="O1s_TTARKZEu_721vIBI-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130.2441778405082" y="252.40568475452199" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="O1s_TTARKZEu_721vIBI-74" source="O1s_TTARKZEu_721vIBI-9" target="O1s_TTARKZEu_721vIBI-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="377.25899788285096" y="252.40568475452199" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.48;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="O1s_TTARKZEu_721vIBI-74" source="O1s_TTARKZEu_721vIBI-9" target="O1s_TTARKZEu_721vIBI-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670.3083980239944" y="252.40568475452199" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="O1s_TTARKZEu_721vIBI-74" source="O1s_TTARKZEu_721vIBI-9" target="O1s_TTARKZEu_721vIBI-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="926.3055751587863" y="252.40568475452199" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="O1s_TTARKZEu_721vIBI-74" source="O1s_TTARKZEu_721vIBI-9" target="O1s_TTARKZEu_721vIBI-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1123.9174311926608" y="252.40568475452199" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="O1s_TTARKZEu_721vIBI-74" source="O1s_TTARKZEu_721vIBI-9" target="O1s_TTARKZEu_721vIBI-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1337.2484121383204" y="252.40568475452199" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-69" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="O1s_TTARKZEu_721vIBI-74" source="O1s_TTARKZEu_721vIBI-39" target="O1s_TTARKZEu_721vIBI-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-71" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="O1s_TTARKZEu_721vIBI-74" source="O1s_TTARKZEu_721vIBI-39" target="O1s_TTARKZEu_721vIBI-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1031.2933657942785" y="242.7234042553191" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-39" value="全转录组测序" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-74">
+          <mxGeometry x="598.3384605834885" y="35.396908165394166" width="154.0633147113594" height="60.753803959875256" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-67" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="O1s_TTARKZEu_721vIBI-74" source="O1s_TTARKZEu_721vIBI-58" target="O1s_TTARKZEu_721vIBI-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-58" value="关联交叉分析" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-74">
+          <mxGeometry x="565.3277267655722" y="467.6499355883666" width="211.08539167254762" height="99.48837209302327" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-66" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.438;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="O1s_TTARKZEu_721vIBI-74" source="O1s_TTARKZEu_721vIBI-58" target="O1s_TTARKZEu_721vIBI-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-68" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.854;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="O1s_TTARKZEu_721vIBI-74" source="O1s_TTARKZEu_721vIBI-58" target="O1s_TTARKZEu_721vIBI-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-1" value="分子实验验证" style="strokeWidth=2;verticalAlign=top;fontFamily=Times New Roman;fontStyle=1;fontSize=22;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="1529" width="448" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-2" value="细胞缺氧模型" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-1">
+          <mxGeometry x="43" y="46" width="188" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-3" value="Western Blot" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-1">
+          <mxGeometry x="61" y="175" width="152" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-4" value="组织冰冻切片" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-1">
+          <mxGeometry x="281" y="46" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-5" value="IF" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-1">
+          <mxGeometry x="315" y="175" width="73" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="O1s_TTARKZEu_721vIBI-1" source="O1s_TTARKZEu_721vIBI-2" target="O1s_TTARKZEu_721vIBI-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.49;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="O1s_TTARKZEu_721vIBI-1" source="O1s_TTARKZEu_721vIBI-4" target="O1s_TTARKZEu_721vIBI-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-57" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="1" source="O1s_TTARKZEu_721vIBI-8" target="O1s_TTARKZEu_721vIBI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-56" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="1" source="O1s_TTARKZEu_721vIBI-28" target="O1s_TTARKZEu_721vIBI-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-28" value="建立模型" style="strokeWidth=2;verticalAlign=top;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="786" y="129" width="1551" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-29" value="干细胞提取" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-28">
+          <mxGeometry x="146" y="69.53488372093022" width="140" height="81.62790697674419" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-30" value="流式细胞术" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-28">
+          <mxGeometry x="43" y="264.53488372093017" width="140" height="81.62790697674419" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-31" value="干细胞三系分化" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-28">
+          <mxGeometry x="233" y="264.53488372093017" width="172" height="81.62790697674419" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-32" value="外泌体提取" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-28">
+          <mxGeometry x="621" y="69.53488372093022" width="140" height="81.62790697674419" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-33" value="透视电镜" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-28">
+          <mxGeometry x="455" y="264.53488372093017" width="124" height="81.62790697674419" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-34" value="NTA 粒径" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-28">
+          <mxGeometry x="629" y="264.53488372093017" width="123" height="81.62790697674419" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-35" value="Western Blot" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-28">
+          <mxGeometry x="802" y="264.53488372093017" width="152" height="81.62790697674419" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-54" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="O1s_TTARKZEu_721vIBI-28" source="O1s_TTARKZEu_721vIBI-36" target="O1s_TTARKZEu_721vIBI-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1339" y="201.19047619047618" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-55" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="O1s_TTARKZEu_721vIBI-28" source="O1s_TTARKZEu_721vIBI-36" target="O1s_TTARKZEu_721vIBI-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-36" value="小鼠MCAO模型" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-28">
+          <mxGeometry x="1090" y="66.00488372093022" width="197" height="81.62790697674419" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-37" value="圆筒实验" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-28">
+          <mxGeometry x="972" y="261.54797895902544" width="124" height="81.62790697674419" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-38" value="外泌体示踪" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-28">
+          <mxGeometry x="1124" y="261.54797895902544" width="140" height="81.62790697674419" as="geometry" />
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="O1s_TTARKZEu_721vIBI-28" source="O1s_TTARKZEu_721vIBI-29" target="O1s_TTARKZEu_721vIBI-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="113" y="207.0930232558139" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="O1s_TTARKZEu_721vIBI-28" source="O1s_TTARKZEu_721vIBI-29" target="O1s_TTARKZEu_721vIBI-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="319" y="207.0930232558139" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="O1s_TTARKZEu_721vIBI-28" source="O1s_TTARKZEu_721vIBI-32" target="O1s_TTARKZEu_721vIBI-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="517" y="207.0930232558139" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="O1s_TTARKZEu_721vIBI-28" source="O1s_TTARKZEu_721vIBI-32" target="O1s_TTARKZEu_721vIBI-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.94;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="O1s_TTARKZEu_721vIBI-28" source="O1s_TTARKZEu_721vIBI-32" target="O1s_TTARKZEu_721vIBI-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="878" y="207.0930232558139" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="O1s_TTARKZEu_721vIBI-28" source="O1s_TTARKZEu_721vIBI-36" target="O1s_TTARKZEu_721vIBI-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1066" y="207.0930232558139" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1s_TTARKZEu_721vIBI-53" value="脑组织提取" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="O1s_TTARKZEu_721vIBI-28">
+          <mxGeometry x="1292" y="261.54797895902544" width="140" height="81.62790697674419" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
