@@ -417,125 +417,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-62" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-116" y="541" width="1918" height="405" as="geometry" />
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-64" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="EZirm6SpU27K8gTGV7a1-62" source="EZirm6SpU27K8gTGV7a1-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="964.75" y="531" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-33" value="建立模型" style="strokeWidth=2;verticalAlign=top;fontFamily=Times New Roman;fontStyle=1;fontSize=22;container=0;" vertex="1" parent="EZirm6SpU27K8gTGV7a1-62">
-          <mxGeometry width="1918" height="405" as="geometry" />
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-56" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="EZirm6SpU27K8gTGV7a1-62" source="EZirm6SpU27K8gTGV7a1-34" target="EZirm6SpU27K8gTGV7a1-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-34" value="干细胞提取" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="EZirm6SpU27K8gTGV7a1-62">
-          <mxGeometry x="146" y="65.73432388673154" width="140" height="77.16638021485872" as="geometry" />
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-35" value="流式细胞术" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="EZirm6SpU27K8gTGV7a1-62">
-          <mxGeometry x="43" y="250.0762321777828" width="140" height="77.16638021485872" as="geometry" />
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-36" value="干细胞三系分化" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="EZirm6SpU27K8gTGV7a1-62">
-          <mxGeometry x="233" y="250.0762321777828" width="172" height="77.16638021485872" as="geometry" />
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-57" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="EZirm6SpU27K8gTGV7a1-62" source="EZirm6SpU27K8gTGV7a1-37" target="EZirm6SpU27K8gTGV7a1-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-37" value="外泌体提取" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="EZirm6SpU27K8gTGV7a1-62">
-          <mxGeometry x="621" y="65.73432388673154" width="140" height="77.16638021485872" as="geometry" />
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-38" value="透视电镜" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="EZirm6SpU27K8gTGV7a1-62">
-          <mxGeometry x="455" y="250.0762321777828" width="124" height="77.16638021485872" as="geometry" />
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-39" value="NTA 粒径" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="EZirm6SpU27K8gTGV7a1-62">
-          <mxGeometry x="629" y="250.0762321777828" width="123" height="77.16638021485872" as="geometry" />
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-40" value="Western Blot" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="EZirm6SpU27K8gTGV7a1-62">
-          <mxGeometry x="802" y="250.0762321777828" width="152" height="77.16638021485872" as="geometry" />
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-55" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="EZirm6SpU27K8gTGV7a1-62" source="EZirm6SpU27K8gTGV7a1-43" target="EZirm6SpU27K8gTGV7a1-52">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1296" y="189.0686238882579" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-58" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="EZirm6SpU27K8gTGV7a1-62" source="EZirm6SpU27K8gTGV7a1-43" target="EZirm6SpU27K8gTGV7a1-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-43" value="小鼠MCAO模型" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="EZirm6SpU27K8gTGV7a1-62">
-          <mxGeometry x="1090" y="62.397262675103775" width="197" height="77.16638021485872" as="geometry" />
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-54" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="EZirm6SpU27K8gTGV7a1-62" source="EZirm6SpU27K8gTGV7a1-44">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1113.75" y="285.49362207126933" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="EZirm6SpU27K8gTGV7a1-62" source="EZirm6SpU27K8gTGV7a1-34" target="EZirm6SpU27K8gTGV7a1-35">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="113" y="195.7739646191785" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="EZirm6SpU27K8gTGV7a1-62" source="EZirm6SpU27K8gTGV7a1-34" target="EZirm6SpU27K8gTGV7a1-36">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="319" y="195.7739646191785" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="EZirm6SpU27K8gTGV7a1-62" source="EZirm6SpU27K8gTGV7a1-37" target="EZirm6SpU27K8gTGV7a1-38">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="517" y="195.7739646191785" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="EZirm6SpU27K8gTGV7a1-62" source="EZirm6SpU27K8gTGV7a1-37" target="EZirm6SpU27K8gTGV7a1-39">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.94;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="EZirm6SpU27K8gTGV7a1-62" source="EZirm6SpU27K8gTGV7a1-37" target="EZirm6SpU27K8gTGV7a1-40">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="878" y="195.7739646191785" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="EZirm6SpU27K8gTGV7a1-62" source="EZirm6SpU27K8gTGV7a1-43" target="EZirm6SpU27K8gTGV7a1-44">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1066" y="195.7739646191785" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-44" value="圆筒实验" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="EZirm6SpU27K8gTGV7a1-62">
-          <mxGeometry x="1005" y="245.78730047755585" width="124" height="77.16638021485872" as="geometry" />
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-59" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="EZirm6SpU27K8gTGV7a1-62" source="EZirm6SpU27K8gTGV7a1-45" target="EZirm6SpU27K8gTGV7a1-53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-60" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="EZirm6SpU27K8gTGV7a1-62" source="EZirm6SpU27K8gTGV7a1-45">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1503" y="257.13332848803066" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-45" value="外泌体注射" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="EZirm6SpU27K8gTGV7a1-62">
-          <mxGeometry x="1433" y="62.40018873714007" width="140" height="77.16638021485872" as="geometry" />
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-52" value="TTC 染色" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="EZirm6SpU27K8gTGV7a1-62">
-          <mxGeometry x="1240" y="250.0791582398192" width="140" height="77.16638021485872" as="geometry" />
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-61" value="外泌体示踪" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="EZirm6SpU27K8gTGV7a1-62">
-          <mxGeometry x="1441" y="250.0791582398192" width="140" height="77.16638021485872" as="geometry" />
-        </mxCell>
-        <mxCell id="EZirm6SpU27K8gTGV7a1-53" value="脑组织提取" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="EZirm6SpU27K8gTGV7a1-62">
-          <mxGeometry x="1703" y="62.40018873714007" width="140" height="77.16638021485872" as="geometry" />
-        </mxCell>
         <mxCell id="EZirm6SpU27K8gTGV7a1-63" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="110" y="1075" width="1553" height="812" as="geometry" />
         </mxCell>
@@ -644,6 +525,126 @@
         </mxCell>
         <mxCell id="EZirm6SpU27K8gTGV7a1-65" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="EZirm6SpU27K8gTGV7a1-2" target="EZirm6SpU27K8gTGV7a1-26">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-64" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="EZirm6SpU27K8gTGV7a1-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="858.75" y="1095" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-33" value="建立模型" style="strokeWidth=2;verticalAlign=top;fontFamily=Times New Roman;fontStyle=1;fontSize=22;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-95" y="537" width="1918" height="405" as="geometry" />
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-56" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="EZirm6SpU27K8gTGV7a1-34" target="EZirm6SpU27K8gTGV7a1-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-34" value="干细胞提取" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="40" y="629.7343238867315" width="140" height="77.16638021485872" as="geometry" />
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-35" value="流式细胞术" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-63" y="814.0762321777828" width="140" height="77.16638021485872" as="geometry" />
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-36" value="干细胞三系分化" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="127" y="814.0762321777828" width="172" height="77.16638021485872" as="geometry" />
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-57" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="EZirm6SpU27K8gTGV7a1-37" target="EZirm6SpU27K8gTGV7a1-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-37" value="外泌体提取" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="515" y="629.7343238867315" width="140" height="77.16638021485872" as="geometry" />
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-38" value="透视电镜" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="349" y="814.0762321777828" width="124" height="77.16638021485872" as="geometry" />
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-39" value="NTA 粒径" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="523" y="814.0762321777828" width="123" height="77.16638021485872" as="geometry" />
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-40" value="Western Blot" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="696" y="814.0762321777828" width="152" height="77.16638021485872" as="geometry" />
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-55" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="EZirm6SpU27K8gTGV7a1-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1442.25" y="712.0036428899625" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1500.5" y="761.508623888258" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-58" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="EZirm6SpU27K8gTGV7a1-43" target="EZirm6SpU27K8gTGV7a1-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-43" value="小鼠MCAO模型" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="984" y="626.3972626751038" width="197" height="77.16638021485872" as="geometry" />
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="1" source="EZirm6SpU27K8gTGV7a1-34" target="EZirm6SpU27K8gTGV7a1-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7" y="759.7739646191785" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="1" source="EZirm6SpU27K8gTGV7a1-34" target="EZirm6SpU27K8gTGV7a1-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="213" y="759.7739646191785" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="1" source="EZirm6SpU27K8gTGV7a1-37" target="EZirm6SpU27K8gTGV7a1-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="411" y="759.7739646191785" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="1" source="EZirm6SpU27K8gTGV7a1-37" target="EZirm6SpU27K8gTGV7a1-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.94;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="1" source="EZirm6SpU27K8gTGV7a1-37" target="EZirm6SpU27K8gTGV7a1-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="772" y="759.7739646191785" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1270.5" y="768.2139646191786" />
+            </Array>
+            <mxPoint x="1354.8061224489797" y="712.0036428899625" as="sourcePoint" />
+            <mxPoint x="1232" y="818.2273004775561" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-59" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="EZirm6SpU27K8gTGV7a1-45" target="EZirm6SpU27K8gTGV7a1-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-60" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="EZirm6SpU27K8gTGV7a1-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1397" y="821.1333284880307" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-45" value="外泌体注射" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1327" y="626.4001887371401" width="140" height="77.16638021485872" as="geometry" />
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-52" value="TTC 染色" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="822.9991582398193" width="140" height="77.16638021485872" as="geometry" />
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-53" value="脑组织提取" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1597" y="626.4001887371401" width="140" height="77.16638021485872" as="geometry" />
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-70" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="EZirm6SpU27K8gTGV7a1-67" target="EZirm6SpU27K8gTGV7a1-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-67" value="外泌体示踪" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1164" y="822.99" width="133" height="77.17" as="geometry" />
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-69" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="EZirm6SpU27K8gTGV7a1-68" target="EZirm6SpU27K8gTGV7a1-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZirm6SpU27K8gTGV7a1-68" value="圆筒实验" style="strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="822.9973004775559" width="124" height="77.16638021485872" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
